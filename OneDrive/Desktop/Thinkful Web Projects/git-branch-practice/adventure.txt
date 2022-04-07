@@ -1,9 +1,21 @@
+
 more content here and link to module
 
 [module 13](https://overview.thinkful.com/curriculum/FEWD-201/programming-fundamentals/collaboration-with-github/branches).
 
-
-
 adding new content to this file on the *main* branch
 
 for the _first time_ 
+
+this is a new sentence 
+
+this is a new _paragraph_
+
+##heading 2
+
+blah blah blah *blah*
+
+Socrates
+Joan of Arc
+Abraham Lincoln
+
